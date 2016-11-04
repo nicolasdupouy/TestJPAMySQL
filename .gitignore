@@ -1,0 +1,36 @@
+# Operating System Files :
+# ------------------------
+*.DS_Store
+Thumbs.db
+*.sw?
+.#*
+*#
+*~
+*.sublime-*
+
+# Frameworks :
+# ------------
+# - [Android] temp directories
+.gradle/
+build/
+#target/
+bin/
+gen/
+#libs/
+#*.zip
+
+
+# IDE :
+# -----
+# - [Eclipse]
+.settings/
+.metadata/
+target/
+.classpath
+.project
+# - [Android Studio - IntelliJ IDEA]
+*.iml
+*.ipr
+*.iws
+*.idea
+local.properties
